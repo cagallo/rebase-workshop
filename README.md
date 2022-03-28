@@ -2,6 +2,9 @@
 
 CONTENTS OF THIS FILE
 ---------------------
+The BAD man is from the DR.
+I love Teddy!
+Last addition!
 
  * Introduction
  * Requirements
